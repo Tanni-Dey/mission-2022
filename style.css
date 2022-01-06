@@ -110,6 +110,12 @@ h3{
 .projects img{
     box-shadow:10px 10px 40px 5px #888888;
 }
+.project-bg-img{
+    background-image: url(images/shapes/shape-9.png);
+    background-repeat: no-repeat;
+    background-position: 90% 100%;
+    background-size: 40%;
+}
 footer{
     background-color: rgb(1, 1, 53);
     padding: 10px 0;
