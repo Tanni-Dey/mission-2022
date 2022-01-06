@@ -101,11 +101,18 @@ h3{
     padding-left: 0px;
 }
 #bg-img{
-    background-position: 97% 75%;
+    background-position: 97% 90%;
+}
+.project-text{
+    text-align: center;
+    padding-bottom: 50px;
 }
 .projects{
     padding-right:50px;
     padding-bottom: 50px;
+}
+.projects img{
+    box-shadow:10px 10px 40px 5px #888888;
 }
 footer{
     background-color: rgb(1, 1, 53);
