@@ -103,6 +103,10 @@ h3{
 #bg-img{
     background-position: 97% 75%;
 }
+.projects{
+    padding-right:50px;
+    padding-bottom: 50px;
+}
 footer{
     background-color: rgb(1, 1, 53);
     padding: 10px 0;
