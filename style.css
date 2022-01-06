@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: rgb(0, 0, 75);
+}
+.border{
+    height: 100px;
+    width: 5px;
+    background-color:navy;
+    /*border-left: 5px solid navy;*/
+    margin-top: 55px;
+    border-radius: 5px;
+}
+.margin{
+    display: flex;
+}
+h1{
+    font-family: 'Patua One', cursive;
+    font-size: 50px;
+    /*border-left: 5px solid navy;
+    border-radius: 5px;*/
+    padding-left: 20px;
+   
+   
+}
+p{
+    font-family: 'Comfortaa', cursive;
+    color: grey;
+}
+section{
+    padding: 0px 100px;
+    padding-bottom: 50px;
+}
+.word-color{
+    color: orange;
+}
+span{
+    font-size: 45px;
+}
+.flex{
+    display: flex;
+    
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    height: 100%;
+    width: 70%;
+    padding-left: 100px;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(40, 0, 105);
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 40px;
+}
+h2{
+    font-size: 40px;
+    font-family: 'Patua One', cursive;
+    text-align: center;
+}
+.colum-3 img{
+    width: 30%;
+    height: 40%;
+}
+.colum-3{
+    padding: 40px 20px;
+    background-color: navy;
+    margin: 0 20px;
+    border-radius: 15px;
+}
+#bg-color-1{
+    background-color: #EDF5F6;
+}
+#bg-color-2{
+    background-color: #FFEEEE;
+}
+#bg-color-3{
+    background-color: rgb(193, 255, 213);
+}
